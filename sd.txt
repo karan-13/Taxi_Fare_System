@@ -1,0 +1,9 @@
+S.NO.:SOURCE:DESTINATION:DISTANCE(KM):ROUTE ID
+1:Janakpuri:Subhash Nagar:5:R1
+2:Subhash Nagar:Karol Bagh:7:R2  
+3:Karol Bagh:Jhandewala:5:R3
+4:Jhandewala:Rajiv Chowk:8:R4
+5:Rajiv Chowk:Akshardham:10:R5
+6:Akshardham:Botanical Garden:10:R6
+7:Botanical Garden: Jiit-128 Noida:7:R7
+8:Jiit 128-NOIDA:NOIDA SEC18:10:R8
